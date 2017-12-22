@@ -3,8 +3,6 @@ import java.util.*;
 /** 
  * Adharsh Ranganathan
  * 2/18/17
- * Section AA
- * TA: Chloe Lathe
  * 
  * A representation of a graph.
  * Assumes that we do not have negative cost edges in the graph.
